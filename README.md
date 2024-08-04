@@ -1,1 +1,1 @@
-This is my program folder for Data Stucture and Algorithm
+This is my Repository for Data Stucture and Algorithm
